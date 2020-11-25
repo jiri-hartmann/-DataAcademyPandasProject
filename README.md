@@ -1,2 +1,2 @@
 # -DataAcademyPandasProject
-Datová analýza dat o pohybu kol v Edinburgu: https://edinburghcyclehire.com/
+Datová analýza pohybu kol v Edinburgu: https://edinburghcyclehire.com/
